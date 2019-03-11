@@ -4,7 +4,7 @@ from ..items import CnblogItem
 class BlogSpider(scrapy.Spider):
     name="blog"
     start_urls=[
-        'https://www.cnblogs.com/pinard/p/000000.html',
+        'https://www.cnblogs.com/xxxxxx/p/000000.html',
     ]
     times=0
     def start_requests(self):
