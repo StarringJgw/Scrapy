@@ -16,6 +16,8 @@ NEWSPIDER_MODULE = 'cnBlog.spiders'
 
 SPLASH_URL='http://0.0.0.0:8050'
 
+FEED_EXPORT_ENCODING = 'utf-8'
+
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'cnBlog (+http://www.yourdomain.com)'
 
